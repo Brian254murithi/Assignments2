@@ -1,0 +1,16 @@
+body{
+    background: url("background image.jpg");
+
+}
+p{
+    color: white;
+    font-size: small;
+}
+h1 {
+    color: #3bff14;
+    font-style: revert;
+}
+img{
+    height: 200px;
+    width: 200px;
+}
